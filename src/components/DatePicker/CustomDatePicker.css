@@ -1,0 +1,11 @@
+.ant-picker-input input::placeholder {
+  color: hsl(0, 0%, 50%) !important;
+}
+
+.ant-picker-ok > button {
+  background-color: #0284c7;
+}
+
+.ant-picker-range {
+  padding: 6px 11px 6px;
+}
